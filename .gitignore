@@ -1,0 +1,25 @@
+#pip files
+=*/
+=*.*.*/
+=0.*/
+=*.0/
+=*.0.*/
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+venv*/
+*.venv/
+
+# Python кэш
+__pycache__/
+*.py[cod]
+.python-version
+generative_experiments_1.py
+tet.py
+compare_models.py
+results
+rusentiment_preselected_posts.csv
+data/rusentiment_train.csv
+data
